@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZAWrS5OLa8tAZPIc9IxQXqQJ73iRcuUgU1QlK+qQFNZo0h5E5mj/dIhbUyGthqtaInLFzOCxkGMoxP+z2dphQQ==",
+  "success": true,
+  "projectFilePath": "/Users/elminnurkic/Projects/Price/Price/Price.csproj",
+  "expectedPackageFiles": [
+    "/Users/elminnurkic/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

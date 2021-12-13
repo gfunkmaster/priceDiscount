@@ -1,0 +1,16 @@
+/Users/elminnurkic/Projects/Price/Price/bin/Debug/net5.0/Price
+/Users/elminnurkic/Projects/Price/Price/bin/Debug/net5.0/Price.deps.json
+/Users/elminnurkic/Projects/Price/Price/bin/Debug/net5.0/Price.runtimeconfig.json
+/Users/elminnurkic/Projects/Price/Price/bin/Debug/net5.0/Price.runtimeconfig.dev.json
+/Users/elminnurkic/Projects/Price/Price/bin/Debug/net5.0/Price.dll
+/Users/elminnurkic/Projects/Price/Price/bin/Debug/net5.0/ref/Price.dll
+/Users/elminnurkic/Projects/Price/Price/bin/Debug/net5.0/Price.pdb
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.csproj.AssemblyReference.cache
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.AssemblyInfoInputs.cache
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.AssemblyInfo.cs
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.csproj.CoreCompileInputs.cache
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.dll
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/ref/Price.dll
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.pdb
+/Users/elminnurkic/Projects/Price/Price/obj/Debug/net5.0/Price.genruntimeconfig.cache
